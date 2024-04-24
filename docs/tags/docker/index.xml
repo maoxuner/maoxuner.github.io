@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on 二次元の技术宅</title><link>/tags/docker/</link><description>Recent content in Docker on 二次元の技术宅</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 01 Aug 2023 15:07:00 +0800</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>以非root用户运行docker服务</title><link>/post/2021/05/docker-non-root/</link><pubDate>Fri, 14 May 2021 15:02:33 +0800</pubDate><guid>/post/2021/05/docker-non-root/</guid><description>某些场景下可能需要使用以非root用户来运行docker服务，以保证系统的安全性。 参考文章 Run the Docker daemon as a non-root user (Rootless mode)</description></item><item><title>云锁导致的Docker镜像拉取失败</title><link>/post/2020/03/docker-pull-failure-caused-by-yunsuo/</link><pubDate>Sun, 22 Mar 2020 23:57:59 +0800</pubDate><guid>/post/2020/03/docker-pull-failure-caused-by-yunsuo/</guid><description>&lt;p>上周遇到了MTU导致的Docker镜像拉取失败，这次又遇到了奇怪的情况导致镜像拉取失败。&lt;/p></description></item><item><title>MacOS Docker Volume性能优化</title><link>/post/2020/03/macos-docker-volumes-cached/</link><pubDate>Thu, 12 Mar 2020 20:01:56 +0800</pubDate><guid>/post/2020/03/macos-docker-volumes-cached/</guid><description>&lt;p>去年，我的燃7000出现了一些软硬件故障，便狠下心换了一个二手的15款MBP，从此告别了折腾linux的日子。然而，日常开发时却发现docker的响应速度远不如之前的linux。好在还有优化的空间。&lt;/p></description></item><item><title>Docker绑定网卡</title><link>/post/2020/02/docker-eth-binding/</link><pubDate>Wed, 19 Feb 2020 23:26:22 +0800</pubDate><guid>/post/2020/02/docker-eth-binding/</guid><description>&lt;p>主机多网卡的情况下，可能会涉及容器和网卡的绑定。主要分两个方向：入口流量网卡的绑定、出口流浪网卡的绑定。&lt;/p></description></item><item><title>Docker新手常见问题</title><link>/post/2020/02/docker-faqs-for-green-hand/</link><pubDate>Sat, 15 Feb 2020 14:20:35 +0800</pubDate><guid>/post/2020/02/docker-faqs-for-green-hand/</guid><description>&lt;p>网络互访问题、入口脚本问题等&lt;/p></description></item><item><title>docker的安装和使用</title><link>/post/2018/02/use-docker/</link><pubDate>Sat, 03 Feb 2018 21:36:07 +0800</pubDate><guid>/post/2018/02/use-docker/</guid><description>&lt;pre>&lt;code> __________________
+&amp;lt; 不解释了，快上船 &amp;gt;
+ ------------------
+ \
+ \
+ \
+ ## .
+ ## ## ## ==
+ ## ## ## ## ===
+ /&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;&amp;quot;___/ ===
+ ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ / ===- ~~~
+ \______ o __/
+ \ \ __/
+ \____\______/
+&lt;/code>&lt;/pre></description></item><item><title>使用docker搭建php开发环境</title><link>/post/2018/01/docker-php-server/</link><pubDate>Sun, 28 Jan 2018 15:42:58 +0800</pubDate><guid>/post/2018/01/docker-php-server/</guid><description>&lt;p>**本文年代久远，可能已经不适用。仅供参考！**新的php镜像参考&lt;a href="https://hub.docker.com/r/maoxuner/php" target="_blank">maoxuner/php
+&lt;/a>。&lt;/p>
+&lt;p>&lt;del>多容器 apache+php+mariadb+redis&lt;/del>&lt;/p></description></item></channel></rss>
