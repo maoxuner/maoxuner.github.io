@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Windows on 二次元の技术宅</title><link>/tags/windows/</link><description>Recent content in Windows on 二次元の技术宅</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 14 Mar 2017 13:36:37 +0800</lastBuildDate><atom:link href="/tags/windows/index.xml" rel="self" type="application/rss+xml"/><item><title>原版win7安装后不识别usb导致键鼠没有反应的问题</title><link>/post/2017/03/win7-vs-skylake/</link><pubDate>Tue, 14 Mar 2017 13:36:37 +0800</pubDate><guid>/post/2017/03/win7-vs-skylake/</guid><description>&lt;p>昨天给一台新电脑，联想H3060安装win7系统。安装完成后，在语言设置界面usb键盘鼠标都失去反应了，更换其他usb口也不能识别。这直接原因就是没有usb驱动。此时，电脑已经算作是完全失控的状态。此时，只有三个解决方案：&lt;/p>
-&lt;ul>
-&lt;li>使用&lt;code>PS/2&lt;/code>接口的键盘鼠标&lt;/li>
-&lt;li>重新安装额外添加了usb驱动的系统&lt;/li>
-&lt;li>在&lt;code>BIOS&lt;/code>中开启&lt;code>USB Virtual KBC Support&lt;/code>&lt;/li>
-&lt;/ul></description></item><item><title>Fat32格式优盘设置小写卷标</title><link>/post/2015/02/u-label/</link><pubDate>Tue, 03 Feb 2015 21:47:20 +0800</pubDate><guid>/post/2015/02/u-label/</guid><description>&lt;p>很多强迫症患者想要给U盘设置个小写的卷标，可是在windows里面修改后，总是被改成大写的了。本文将教你怎么设置小写或者大小写混合的卷标。&lt;/p></description></item></channel></rss>

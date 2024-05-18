@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Composer on 二次元の技术宅</title><link>/tags/composer/</link><description>Recent content in Composer on 二次元の技术宅</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 14 Jun 2018 00:13:05 +0800</lastBuildDate><atom:link href="/tags/composer/index.xml" rel="self" type="application/rss+xml"/><item><title>解决Composer使用Bower管理前端资源下载速度慢的问题</title><link>/post/2018/06/composer-with-bower-asset/</link><pubDate>Thu, 14 Jun 2018 00:13:05 +0800</pubDate><guid>/post/2018/06/composer-with-bower-asset/</guid><description>&lt;p>作为一个程序猿，有一半的时间在跟网络、防火墙做斗争，感觉真是可悲。&lt;/p>
-&lt;p>composer的加速有两个方面：&lt;/p>
-&lt;ul>
-&lt;li>获取php资源包数据（packagist）&lt;/li>
-&lt;li>获取bower前端资源数据（github）&lt;/li>
-&lt;/ul></description></item><item><title>CodeIgniter3利用composer实现命名空间类的自动加载</title><link>/post/2017/03/ci3-composer/</link><pubDate>Fri, 24 Mar 2017 13:36:35 +0800</pubDate><guid>/post/2017/03/ci3-composer/</guid><description>&lt;p>CodeIgniter3中是没有使用命名空间的，但是不代表它就不能使用命名空间。根本上讲，命名空间是php的一项功能，从php5.3.0开始就支持了这一功能。CodeIgniter只是没有实现根据命名空间来实现类库的自动加载，但是可以通过第三方类库如&lt;code>composer&lt;/code>来实现其他类库的自动加载。&lt;/p></description></item></channel></rss>
